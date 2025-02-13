@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "etRumS2b5o8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rares\\Desktop\\temacs\\ExpenseTrackingApp\\ExpenseTrackingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rares\\.nuget\\packages\\system.configuration.configurationmanager\\9.0.0\\system.configuration.configurationmanager.9.0.0.nupkg.sha512",
+    "C:\\Users\\Rares\\.nuget\\packages\\system.data.oledb\\9.0.0\\system.data.oledb.9.0.0.nupkg.sha512",
+    "C:\\Users\\Rares\\.nuget\\packages\\system.diagnostics.eventlog\\9.0.0\\system.diagnostics.eventlog.9.0.0.nupkg.sha512",
+    "C:\\Users\\Rares\\.nuget\\packages\\system.diagnostics.performancecounter\\9.0.0\\system.diagnostics.performancecounter.9.0.0.nupkg.sha512",
+    "C:\\Users\\Rares\\.nuget\\packages\\system.security.cryptography.protecteddata\\9.0.0\\system.security.cryptography.protecteddata.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
